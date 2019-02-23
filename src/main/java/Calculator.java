@@ -1,5 +1,3 @@
-package main;
-
 public class Calculator {
 
 	public double sum(double a, double b) {
@@ -11,6 +9,7 @@ public class Calculator {
 	}
 
 	public double multiply(double a, double b) {
+
 		return a * b;
 	}
 
